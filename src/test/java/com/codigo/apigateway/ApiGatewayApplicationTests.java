@@ -1,4 +1,4 @@
-package com.grupo9.apigateway;
+package com.codigo.apigateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
